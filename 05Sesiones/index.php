@@ -5,6 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sesiones con PHP</title>
+    <style>
+        form{
+            margin: 0 auto;
+            text-align: center;
+            width: 400px;
+        }
+        span{
+            color: #F00;
+            font-size: 2em;}
+    </style>
 </head>
 <body>
     
